@@ -2,6 +2,8 @@
 
 🌍 **AI Language Translator** is a Streamlit web app that uses Hugging Face MarianMT models to provide real-time translations between English and multiple languages.
 
+<img src="images/AI-Language-Translator.png" alt="AI Language Translator" width="400"/>
+
 ## Features:
 - Translate text from **English** to various languages such as French, Spanish, German, Italian, Chinese, Arabic, Hindi, and Swahili.
 - Simple and intuitive user interface powered by Streamlit.
