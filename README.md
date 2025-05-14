@@ -25,7 +25,7 @@ To run the app locally:
 
    ```bash
    git clone https://github.com/prasanth624/AI-Language-Translator.git
-````
+   ```
 
 2. Navigate to the project directory:
 
@@ -47,6 +47,8 @@ To run the app locally:
 
 5. Open your browser and go to `http://localhost:8501` to use the app.
 
-## License:
+## Contributing
+Feel free to fork the repository and submit pull requests for any improvements or features you'd like to add!
 
+## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
